@@ -1,0 +1,9 @@
+# datasets are downloaded by fetch_data.py, never committed
+data/
+# generated at run time
+__pycache__/
+*.pyc
+cache_*.npz
+logs/
+*.bak
+.vscode/
